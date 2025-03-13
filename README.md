@@ -3,6 +3,8 @@
 Created by SynapLink Project  
 Support & Feedback: [t.me/damniewa](https://t.me/damniewa)
 
+**RELEASE:** [github.com/SynapLink/ROFileChanger/releases/tag/Alpha](https://github.com/SynapLink/ROFileChanger/releases/tag/Alpha)
+
 ---
 
 ## Overview
